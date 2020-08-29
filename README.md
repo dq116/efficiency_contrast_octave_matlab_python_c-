@@ -10,9 +10,7 @@ octave matlab python c++速度/效率 对比 附动图
 计算30分钟 matlab与c++的耗时为 3s  
 计算2分钟 python的耗时为 31s，octave的耗时为210s  
 
-```bash
-结论
-```
+<font color="#006666">深青色文字</font>
 ：**当只进行基本运算和for循环时，matlab的效率与c++不相上下，python与其相差约两个数量级，而octave又与python相差约一个数量级**  
 
 （为了和matlab程序达到近似的运算量，对其他语言的程序进行了修改，所以逻辑上是不正确的，正确的代码我会在近期的一篇讲解18国赛a题的文章中贴出）  
