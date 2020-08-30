@@ -1,7 +1,9 @@
 # efficiency_contrast_octave_matlab_python_c-
 octave matlab python c++速度/效率 对比 附动图
 
-博客内食用：https://blog.csdn.net/weixin_42378324/article/details/108299779
+博客内食用：https://blog.csdn.net/weixin_42378324/article/details/108299779  
+
+软件/语言版本：Octave:5.2.0  Matlab:2019a  python:3.7  c++:14  
 
 **本文中所用的测试程序只包含基本运算和for循环，即本文并不探究这几种语言在进行向量/矩阵运算以及各种优化操作时的效率问题。**  
 
