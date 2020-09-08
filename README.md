@@ -14,9 +14,10 @@ octave matlab python c++速度/效率 对比 附动图
 
 `结论`：**当只进行基本运算和for循环时，matlab的效率与c++不相上下，python与其相差约两个数量级，而octave又与python相差约一个数量级**  
 
-（为了和matlab程序达到近似的运算量，对其他语言的程序进行了修改，所以逻辑上是不正确的，正确的代码我会在近期的一篇讲解18国赛a题的文章中贴出）  
+（为了和matlab程序达到近似的运算量，对其他语言的程序进行了修改，所以逻辑上是不正确的，正确的代码在我的一篇[讲解18国赛a题的文章](https://blog.csdn.net/weixin_42378324/article/details/108298011)中有）  
 matlab测试程序，来源：18国赛a题优秀论文
 
+（图片已挂，去[博客](https://blog.csdn.net/weixin_42378324/article/details/108299779  )里看吧）
 可以看动图直观感受一下：
 #### octave
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200829224613175.gif#pic_center)
